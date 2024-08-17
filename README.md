@@ -1,1 +1,1 @@
-# Stock-price-prediction-projectject
+# Stock-price-prediction-project
